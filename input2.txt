@@ -1,0 +1,2 @@
+ABCDEG
+AC->D, ABD->C, D->A, D->EG, DG->BC, CD->B, CE->D, DE->AG
